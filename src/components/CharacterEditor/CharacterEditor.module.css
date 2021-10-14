@@ -29,9 +29,9 @@
   min-height: 500px;
   position: fixed;
 
-  left: 50%;
+  left: 60%;
   top: 128px;
-  right: 0px;
+  bottom: 5%;
 }
 
 .controlColumn {
